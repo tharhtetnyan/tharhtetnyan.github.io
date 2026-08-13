@@ -15,15 +15,6 @@ This repository contains the source code for my personal portfolio website, depl
 
 The site serves as a professional hub for my academic background, research publications, engineering projects, and contact information — available in **English**, **Korean (한국어)**, and **Burmese (မြန်မာ)**.
 
------
-
-## Highlights
-
-- 🧠 **Research** — Published work on implantable tibial nerve stimulation (INJ, IF 2.1) and temporal interference stimulation; conference presentations at KOSOMBE 2025 & 2026
-- 🎓 **Education** — B.E. Biomedical Engineering at Soonchunhyang University (GPA 4.45/4.5); Global Korea Scholar (2022)
-- 🏆 **Awards** — GKS Academic Excellence Award (Ministry of Education, Korea); Dean’s List × 6 consecutive semesters
-- 🔬 **Lab** — Undergraduate Researcher at [iMeD Lab](https://www.schimedlab.com/), Soonchunhyang University
-- 🌐 **Multilingual UI** — Language switcher with full translations (EN / 한국어 / မြန်မာ)
 
 -----
 
